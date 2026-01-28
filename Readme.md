@@ -1,7 +1,3 @@
-Here is a clean, professionally formatted version of your README. I’ve added a clearer structure, code blocks, and a touch of visual hierarchy to make it more readable for other developers.
-
----
-
 # Scrapy Web Scraper with MongoDB
 
 This project is a high-performance Python web scraper built with **Scrapy**. It is designed to extract book data from structured websites and persist that data directly into **MongoDB** for long-term storage and analysis.
